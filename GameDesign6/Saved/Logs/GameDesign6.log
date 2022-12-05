@@ -1380,3 +1380,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.05-17.57.02:055][ 78]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
 [2022.12.05-17.57.21:495][340]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
 [2022.12.05-17.57.49:099][676]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.12.05-17.58.23:199][ 18]Cmd: SELECT NONE
+[2022.12.05-17.58.24:317][ 57]Cmd: SELECT NONE
+[2022.12.05-17.58.27:218][147]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
