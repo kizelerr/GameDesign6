@@ -2484,3 +2484,7 @@ Script Stack (0 frames):
 [2022.12.07-18.05.44:098][641]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
 [2022.12.07-18.05.44:098][641]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animationss/__Lastname_CharacterComplete1.__Lastname_CharacterComplete1
 [2022.12.07-18.05.44:098][641]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animationss/RunningAnimation.RunningAnimation
+[2022.12.07-18.06.23:214][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.12.07-18.06.23:226][801]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/2DSideScrollerExampleMap_Auto5F076794D4E155D91BD17AA8E73A75D61.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto5.umap'
+[2022.12.07-18.06.23:228][801]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.030
+[2022.12.07-18.06.23:228][801]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
