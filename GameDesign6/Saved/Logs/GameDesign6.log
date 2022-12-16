@@ -1749,3 +1749,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.16-13.09.08:605][791]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.16-13.09.08:605][791]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2022.12.16-13.09.08:605][791]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.16-13.09.34:079][ 44]SourceControl: Source control is disabled
+[2022.12.16-13.09.34:079][ 44]LogSlate: Window 'Source Control Login' being destroyed
+[2022.12.16-13.10.39:874][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.16-13.10.39:897][346]LogSavePackage: Moving '../../../../../../Users/5926002389/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/2DSideScrollerExampleMap31DD4D4B42CACC02FF684C9415076418.tmp' to '../../../../../../Users/5926002389/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.16-13.10.39:908][346]LogSavePackage: Moving '../../../../../../Users/5926002389/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/2DSideScrollerExampleMap_BuiltDaA293D478489DCC00894BFBAABC1E5C48.tmp' to '../../../../../../Users/5926002389/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.12.16-13.10.39:925][346]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.16-13.10.39:925][346]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.12.16-13.10.39:925][346]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.16-13.10.40:141][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.12.16-13.10.40:162][351]LogSavePackage: Moving '../../../../../../Users/5926002389/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/2DSideScrollerExampleMap758BDCD44E186FC60216BEA41439FAF8.tmp' to '../../../../../../Users/5926002389/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.16-13.10.40:172][351]LogSavePackage: Moving '../../../../../../Users/5926002389/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/2DSideScrollerExampleMap_BuiltDaB8C5EBAB40F77BB1C8EE48824307ED61.tmp' to '../../../../../../Users/5926002389/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.12.16-13.10.40:186][351]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.16-13.10.40:186][351]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.12.16-13.10.40:186][351]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
