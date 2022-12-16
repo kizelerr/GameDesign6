@@ -1,0 +1,1636 @@
+﻿Log file open, 12/16/22 08:11:12
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: GameDesign6
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.246505
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/5925002679/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.16-13.11.13:613][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.16-13.11.13:613][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.16-13.11.13:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Engine.ini]
+[2022.12.16-13.11.13:613][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.16-13.11.13:613][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2022.12.16-13.11.13:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Engine.ini]
+[2022.12.16-13.11.13:614][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Engine.ini]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Engine.ini]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.16-13.11.13:614][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Engine.ini]
+[2022.12.16-13.11.13:614][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Engine.ini]
+[2022.12.16-13.11.13:650][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:650][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.16-13.11.13:650][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.16-13.11.13:650][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:650][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.16-13.11.13:650][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:650][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.16-13.11.13:650][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.16-13.11.13:650][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.16-13.11.13:650][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.16-13.11.13:650][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.16-13.11.13:651][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.16-13.11.13:652][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.16-13.11.13:652][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.16-13.11.13:652][  0]LogHAL: Display: Platform has ~ 16 GB [16994697216 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.16-13.11.13:652][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.16-13.11.13:652][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.16-13.11.13:652][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Scalability.ini]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.16-13.11.13:653][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Engine.ini]
+[2022.12.16-13.11.13:653][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Config/Windows/Editor.ini]
+[2022.12.16-13.11.13:654][  0]LogInit: Computer: CAIT-C83TPX2
+[2022.12.16-13.11.13:654][  0]LogInit: User: 5925002679
+[2022.12.16-13.11.13:654][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.12.16-13.11.13:654][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.16-13.11.13:654][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.12.16-13.11.13:654][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.16-13.11.13:654][  0]LogMemory: Process Physical Memory: 135.85 MB used, 135.85 MB peak
+[2022.12.16-13.11.13:654][  0]LogMemory: Process Virtual Memory: 118.19 MB used, 118.19 MB peak
+[2022.12.16-13.11.13:654][  0]LogMemory: Physical Memory: 6798.68 MB used,  9408.72 MB free, 16207.41 MB total
+[2022.12.16-13.11.13:654][  0]LogMemory: Virtual Memory: 134208880.00 MB used,  8845.75 MB free, 134217728.00 MB total
+[2022.12.16-13.11.13:669][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.16-13.11.13:701][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.16-13.11.13:702][  0]LogInit: Using OS detected language (en-US).
+[2022.12.16-13.11.13:702][  0]LogInit: Using OS detected locale (en-US).
+[2022.12.16-13.11.13:709][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.12.16-13.11.13:940][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.16-13.11.13:963][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.16-13.11.14:003][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.16-13.11.14:003][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.16-13.11.16:467][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.16-13.11.16:467][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.16-13.11.16:467][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.16-13.11.16:467][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.16-13.11.16:541][  0]LogD3D11RHI:    0. 'AMD Radeon RX 550' (Feature Level 11_0)
+[2022.12.16-13.11.16:541][  0]LogD3D11RHI:       4076/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2022.12.16-13.11.16:566][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.12.16-13.11.16:566][  0]LogD3D11RHI:       128/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.12.16-13.11.16:569][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.16-13.11.16:569][  0]LogD3D11RHI:       0/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.16-13.11.16:569][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.12.16-13.11.16:576][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.16-13.11.16:576][  0]LogD3D11RHI:     GPU DeviceId: 0x699f (for the marketing name, search the web for "GPU Device Id")
+[2022.12.16-13.11.16:576][  0]LogWindows: EnumDisplayDevices:
+[2022.12.16-13.11.16:576][  0]LogWindows:    0. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.12.16-13.11.16:577][  0]LogWindows:    1. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.12.16-13.11.16:577][  0]LogWindows:    2. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.12.16-13.11.16:578][  0]LogWindows:    3. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.12.16-13.11.16:578][  0]LogWindows:    4. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.12.16-13.11.16:578][  0]LogWindows:    5. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.12.16-13.11.16:579][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.12.16-13.11.16:579][  0]LogWindows:    7. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.12.16-13.11.16:579][  0]LogWindows:    8. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.12.16-13.11.16:580][  0]LogWindows:    9. 'mv video hook driver2' (P:0 D:0)
+[2022.12.16-13.11.16:580][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2022.12.16-13.11.16:580][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 550
+[2022.12.16-13.11.16:580][  0]LogD3D11RHI:   Driver Version: Adrenalin 21.30.18.11 (internal:30.0.13018.11001, unified:30.0.13018.11001)
+[2022.12.16-13.11.16:580][  0]LogD3D11RHI:      Driver Date: 6-23-2022
+[2022.12.16-13.11.16:580][  0]LogRHI: Texture pool is 2425 MB (70% of 3464 MB)
+[2022.12.16-13.11.16:676][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.16-13.11.16:677][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.16-13.11.16:677][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.16-13.11.16:689][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2022.12.16-13.11.17:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.16-13.11.17:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.16-13.11.17:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.16-13.11.17:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.16-13.11.17:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.16-13.11.17:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.16-13.11.17:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.16-13.11.17:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.16-13.11.17:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.16-13.11.17:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.16-13.11.17:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.16-13.11.17:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.16-13.11.17:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.16-13.11.17:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.16-13.11.17:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.16-13.11.17:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.16-13.11.17:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.16-13.11.17:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.16-13.11.17:407][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.16-13.11.17:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.16-13.11.17:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.16-13.11.17:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.16-13.11.17:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.16-13.11.17:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.16-13.11.17:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.16-13.11.17:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.16-13.11.17:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.16-13.11.17:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.16-13.11.17:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.16-13.11.17:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.16-13.11.17:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.16-13.11.17:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.16-13.11.17:534][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.16-13.11.17:543][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.16-13.11.17:610][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.16-13.11.17:610][  0]LogShaderCompilers: Guid format shader working directory is -55 characters bigger than the processId version (../../../../../Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Intermediate/Shaders/WorkingDirectory/4184/).
+[2022.12.16-13.11.17:610][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/5925002679/AppData/Local/Temp/UnrealShaderWorkingDir/6A5DA4504CFA0166E06C6A811368C4B4/'.
+[2022.12.16-13.11.17:610][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.16-13.11.17:610][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.16-13.11.20:182][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.16-13.11.20:232][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/5925002679/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.12.16-13.11.20:232][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/5925002679/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.12.16-13.11.20:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.16-13.11.20:232][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.16-13.11.20:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.16-13.11.20:232][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.16-13.11.20:249][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.16-13.11.20:249][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.16-13.11.20:249][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.16-13.11.20:293][  0]LogDerivedDataCache: Speed tests for C:/Users/5925002679/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2022.12.16-13.11.20:294][  0]LogDerivedDataCache: Display: Performance to C:/Users/5925002679/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=24.74MBs, RandomWriteSpeed=166.58MBs. Assigned SpeedClass 'Local'
+[2022.12.16-13.11.20:294][  0]LogDerivedDataCache: Using Local data cache path C:/Users/5925002679/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.16-13.11.20:294][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.16-13.11.20:294][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.16-13.11.20:340][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.16-13.11.20:355][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.16-13.11.20:377][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2022.12.16-13.11.20:595][  0]LogAssetRegistry: Error: Package ../../../../../Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/StarterContent/Architecture/Floor_400x400.uasset has newer custom version of Dev-Rendering
+[2022.12.16-13.11.20:595][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.16-13.11.20:595][  0]LogInit: Active device profile: [00000133FC1F1B00][00000133FB027440 49] Windows
+[2022.12.16-13.11.20:596][  0]LogInit: Profiles: [00000133FC1F1B00][00000133FB027440 49] Windows, [00000133FC178C00][00000133FB02F5C0 49] WindowsNoEditor, [00000133FC1F2000][00000133FB02B700 49] WindowsServer, [00000133FC17A300][00000133FB037840 49] WindowsClient, [00000133FC1F0D00][00000133FB03B980 49] IOS, [00000133FC17B800][00000133FB03FAC0 49] iPadAir, [00000133FC1F2F00][00000133FB047C40 49] iPadAir2, [00000133FD032D00][00000133FB04E240 49] IPadPro, [00000133FD032E00][00000133FB04A280 49] iPadAir3, [00000133FC1F1100][00000133FB052400 49] iPadAir4, [00000133FD032800][00000133FB056580 49] iPadMini2, [00000133FC1F3000][00000133FB05A700 49] iPadMini3, [00000133FD031700][00000133FB05E880 49] iPadMini4, [00000133FC1F3800][00000133FB062A00 49] iPadMini5, [00000133FD042600][00000133FB06ACC0 49] iPhone6, [00000133FD042700][00000133FB066D00 49] iPodTouch6, [00000133FC178400][00000133FB072FC0 49] iPhone7, [00000133FC178600][00000133FB06F000 49] iPodTouch7, [00000133FD043D00][00000133FB077180 49] iPhone5S, [00000133FC179F00][00000133FB07B300 49] iPhone6Plus, [00000133FD041600][00000133FB07F480 49] iPhone6S, [00000133FC17A000][00000133FB083600 49] iPhone6SPlus, [00000133FD040500][00000133FB043740 49] iPhone7Plus, [00000133FC17A600][00000133FB087880 49] iPhoneSE, [00000133FD043200][00000133FB08B9C0 49] iPhone8, [00000133FC17B100][00000133EDA11B00 49] iPhone8Plus, [00000133FD041900][00000133EDA19C80 49] iPhoneX, [00000133FC17A900][00000133EDA1C140 49] iPhoneXS, [00000133FD041200][00000133EDA202C0 49] iPhoneXSMax, [00000133FC17B600][00000133EDA24440 49] iPhoneXR, [00000133FD040C00][00000133EDA285C0 49] iPhone11, [00000133FC178900][00000133EDA2C740 49] iPhone11Pro, [00000133FD041500][00000133EDA308C0 49] iPhone11ProMax, [00000133FC17AD00][00000133EDA34A40 49] iPhoneSE2, [00000133FD043F00][00000133EDA38BC0 49] iPhone12Mini, [00000133FC17B300][00000133FD0A0D40 49] iPhone12, [00000133FD042200][00000133FD0A4EC0 49] iPhone12Pro, [00000133FC17AA00][00000133FD0A9040 49] iPhone12ProMax, [00000133FC179D00][00000133FD0AD1C0 49] iPadPro105, [00000133FC1F0F00][00000133FD0B1340 49] iPadPro129, [00000133FC17A100][00000133FD0B54C0 49] iPadPro97, [00000133FC1F3500][00000133FD0B9640 49] iPadPro2_129, [00000133FD041100][00000133FD0BD7C0 49] iPad5, [00000133FC1F2500][00000133EDA15900 49] iPad6, [00000133FD040600][00000133FD0C1A40 49] iPad7, [00000133FC1F0100][00000133FD0C5B80 49] iPad8, [00000133FD042800][00000133FD0CDD00 49] iPadPro11, [00000133FC1F2E00][00000133FD0D01C0 49] iPadPro2_11, [00000133FD043E00][00000133FD0D4340 49] iPadPro3_129, [00000133FC1F2B00][00000133FD0D84C0 49] iPadPro4_129, [00000133FD040300][00000133FD0DC640 49] AppleTV, [00000133FC1F0B00][00000133FD0E07C0 49] AppleTV4K, [00000133FD040D00][00000133FD0E4940 49] TVOS, [00000133FC1F1E00][00000133FD0E8AC0 49] Mac, [00000133FD043800][00000133FD0ECC40 49] MacClient, [00000133FC1F2100][00000133FD0F0DC0 49] MacNoEditor, [00000133FD040B00][00000133FD0F4F40 49] MacServer, [00000133FC1F3D00][00000133FD0F90C0 49] Linux, [00000133FD042B00][00000133FD0FD240 49] LinuxAArch64, [00000133FC1F1600][00000133FD1013C0 49] LinuxNoEditor, [00000133FD041C00][00000133FD105540 49] LinuxAArch64NoEditor, [00000133FC1F2700][00000133FD1096C0 49] LinuxClient, [00000133FD041700][00000133FD10D840 49] LinuxAArch64Client, [00000133FC1F2A00][00000133FD0C9980 49] LinuxServer, [00000133FD041F00][00000133FD111AC0 49] LinuxAArch64Server, [00000133FC1F2300][00000133FD115C00 49] Android, [00000133FD040F00][00000133FD11C0C0 49] Android_Low, [00000133FC1F3700][00000133FD120240 49] Android_Mid, [00000133FD043300][00000133FD1243C0 49] Android_High, [00000133FC1F0C00][00000133FD128540 49] Android_Default, [00000133FD041B00][00000133FD12C6C0 49] Android_Adreno4xx, [00000133FC1F1200][00000133FD130840 49] Android_Adreno5xx_Low, [00000133FD040400][00000133FD1349C0 49] Android_Adreno5xx, [00000133FC1F3B00][00000133FD138B40 49] Android_Adreno6xx, [00000133FD042A00][00000133FD13CCC0 49] Android_Adreno6xx_Vulkan, [00000133FC1F2C00][00000133FD140E40 49] Android_Mali_T6xx, [00000133FD042C00][00000133FD144FC0 49] Android_Mali_T7xx, [00000133FC1F1700][00000133FD149140 49] Android_Mali_T8xx, [00000133FD041E00][00000133FD14D2C0 49] Android_Mali_G71, [00000133FC1F3C00][00000133FD151440 49] Android_Mali_G72, [00000133FD043400][00000133FD1555C0 49] Android_Mali_G72_Vulkan, [00000133FC1F3100][00000133FD159740 49] Android_Mali_G76, [00000133FD042300][00000133FD15D8C0 49] Android_Mali_G76_Vulkan, [00000133FC1F1D00][00000133FD119A00 49] Android_Mali_G77, [00000133FD042000][00000133FD161B40 49] Android_Mali_G77_Vulkan, [00000133FC1F3200][00000133FD165C80 49] Android_Vulkan_SM5, [00000133FD040800][00000133FD168100 49] Android_PowerVR_G6xxx, [00000133FC1F2D00][00000133FD170280 49] Android_PowerVR_GT7xxx, [00000133FD040A00][00000133FD174400 49] Android_PowerVR_GE8xxx, [00000133FC1F3A00][00000133FD178580 49] Android_PowerVR_GM9xxx, [00000133FC17BB00][00000133FD17C700 49] Android_PowerVR_GM9xxx_Vulkan, [00000133FD030100][00000133FD180880 49] Android_TegraK1, [00000133FC17A200][00000133FD184A00 49] Android_Unknown_Vulkan, [00000133FD031200][00000133FD188B80 49] Lumin, [00000133FC179A00][00000133FD18CD00 49] Lumin_Desktop, [00000133FD031E00][00000133FD190E80 49] HoloLens, 
+[2022.12.16-13.11.20:713][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.16-13.11.20:714][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.16-13.11.20:714][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.16-13.11.20:714][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.16-13.11.20:714][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.16-13.11.20:815][  0]LogNetVersion: GameDesign6 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1263373082)
+[2022.12.16-13.11.21:843][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.16-13.11.21:915][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.071426 seconds
+[2022.12.16-13.11.21:920][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.12.16-13.11.21:920][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.12.16-13.11.21:920][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.16-13.11.22:455][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.16-13.11.22:460][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.16-13.11.22:602][  0]SourceControl: Source control is disabled
+[2022.12.16-13.11.22:602][  0]SourceControl: Source control is disabled
+[2022.12.16-13.11.22:605][  0]SourceControl: Source control is disabled
+[2022.12.16-13.11.22:608][  0]SourceControl: Source control is disabled
+[2022.12.16-13.11.22:617][  0]SourceControl: Source control is disabled
+[2022.12.16-13.11.22:623][  0]LogUProjectInfo: Found projects:
+[2022.12.16-13.11.22:630][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.16-13.11.22:630][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.16-13.11.22:915][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.16-13.11.22:935][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.16-13.11.22:935][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.16-13.11.22:990][  0]LogCollectionManager: Loaded 0 collections in 0.001586 seconds
+[2022.12.16-13.11.23:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Collections/' took 0.00s
+[2022.12.16-13.11.23:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/Developers/5925002679/Collections/' took 0.00s
+[2022.12.16-13.11.23:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/Collections/' took 0.00s
+[2022.12.16-13.11.23:023][  0]LogOcInput: OculusInput pre-init called
+[2022.12.16-13.11.23:034][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.12.16-13.11.23:034][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.12.16-13.11.23:101][  0]LogEngine: Initializing Engine...
+[2022.12.16-13.11.23:102][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.16-13.11.23:102][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.16-13.11.23:103][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.16-13.11.23:354][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.16-13.11.23:361][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.16-13.11.23:362][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.16-13.11.23:365][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.16-13.11.23:365][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.16-13.11.23:365][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.16-13.11.23:365][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.16-13.11.23:365][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.16-13.11.23:365][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.16-13.11.23:365][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.16-13.11.23:365][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.16-13.11.23:365][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.16-13.11.23:365][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.16-13.11.23:365][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.16-13.11.23:365][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.16-13.11.23:382][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.16-13.11.23:382][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.16-13.11.23:497][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.12.16-13.11.23:499][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.16-13.11.23:508][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.16-13.11.23:508][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.16-13.11.23:509][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.16-13.11.23:509][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.16-13.11.23:509][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.16-13.11.23:510][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.16-13.11.23:510][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.16-13.11.23:510][  0]LogInit: FAudioDevice initialized.
+[2022.12.16-13.11.23:511][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.16-13.11.23:511][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.16-13.11.23:591][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/5925002679/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.12.16-13.11.23:592][  0]LogInit: Texture streaming: Enabled
+[2022.12.16-13.11.23:604][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.12.16-13.11.23:607][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.16-13.11.23:607][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.16-13.11.23:610][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.16-13.11.23:634][  0]LogInit: Transaction tracking system initialized
+[2022.12.16-13.11.23:657][  0]BlueprintLog: New page: Editor Load
+[2022.12.16-13.11.23:732][  0]LocalizationService: Localization service is disabled
+[2022.12.16-13.11.23:756][  0]TimingProfiler: Initialize
+[2022.12.16-13.11.23:757][  0]TimingProfiler: OnSessionChanged
+[2022.12.16-13.11.23:757][  0]LoadingProfiler: Initialize
+[2022.12.16-13.11.23:757][  0]LoadingProfiler: OnSessionChanged
+[2022.12.16-13.11.23:757][  0]NetworkingProfiler: Initialize
+[2022.12.16-13.11.23:757][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.16-13.11.23:757][  0]MemoryProfiler: Initialize
+[2022.12.16-13.11.23:757][  0]MemoryProfiler: OnSessionChanged
+[2022.12.16-13.11.23:818][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.16-13.11.23:818][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.16-13.11.24:100][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.16-13.11.24:100][  0]LogCook: Display: Mobile HDR setting 0
+[2022.12.16-13.11.24:105][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/' took 0.01s
+[2022.12.16-13.11.24:430][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.16-13.11.24:433][  0]SourceControl: Source control is disabled
+[2022.12.16-13.11.24:433][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.726
+[2022.12.16-13.11.24:433][  0]LightingResults: New page: Lighting Build
+[2022.12.16-13.11.24:434][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-13.11.24:434][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-13.11.24:434][  0]MapCheck: New page: Map Check
+[2022.12.16-13.11.24:434][  0]LightingResults: New page: Lighting Build
+[2022.12.16-13.11.24:440][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.16-13.11.24:539][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2022.12.16-13.11.24:540][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.12.16-13.11.24:543][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.16-13.11.24:560][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.12.16-13.11.24:560][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.16-13.11.24:560][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2022.12.16-13.11.24:560][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.127
+[2022.12.16-13.11.24:562][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.854
+[2022.12.16-13.11.24:693][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.16-13.11.24:698][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.16-13.11.24:704][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.16-13.11.24:709][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.16-13.11.24:725][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3601 classes and 859 folders.
+[2022.12.16-13.11.24:727][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.16-13.11.24:734][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.16-13.11.24:734][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:734][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.16-13.11.24:734][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.12.16-13.11.24:741][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.16-13.11.24:741][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:741][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.16-13.11.24:741][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.12.16-13.11.24:746][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.16-13.11.24:746][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:746][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.16-13.11.24:746][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.12.16-13.11.24:750][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.16-13.11.24:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.16-13.11.24:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.12.16-13.11.24:755][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.16-13.11.24:755][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:755][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.16-13.11.24:755][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.12.16-13.11.24:759][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.16-13.11.24:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.16-13.11.24:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.12.16-13.11.24:764][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.16-13.11.24:764][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:764][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.16-13.11.24:764][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.12.16-13.11.24:769][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.16-13.11.24:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.16-13.11.24:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.12.16-13.11.24:776][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.16-13.11.24:776][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:776][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.16-13.11.24:776][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.12.16-13.11.24:781][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.16-13.11.24:781][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:781][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.16-13.11.24:781][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.12.16-13.11.24:786][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.16-13.11.24:786][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:786][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.16-13.11.24:786][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.12.16-13.11.24:791][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.16-13.11.24:791][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:791][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.16-13.11.24:791][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.12.16-13.11.24:795][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.16-13.11.24:796][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:796][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.16-13.11.24:796][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.12.16-13.11.24:800][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.16-13.11.24:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.16-13.11.24:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.12.16-13.11.24:805][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.16-13.11.24:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.16-13.11.24:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.12.16-13.11.24:810][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.16-13.11.24:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.16-13.11.24:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.12.16-13.11.24:814][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.16-13.11.24:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:815][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.16-13.11.24:815][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.12.16-13.11.24:819][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.16-13.11.24:819][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:819][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.16-13.11.24:819][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.12.16-13.11.24:824][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.16-13.11.24:824][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:824][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.16-13.11.24:824][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2022.12.16-13.11.24:832][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.16-13.11.24:832][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:832][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.16-13.11.24:832][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.12.16-13.11.24:836][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.16-13.11.24:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.16-13.11.24:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.12.16-13.11.24:841][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.16-13.11.24:841][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:841][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.16-13.11.24:841][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.12.16-13.11.24:846][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.16-13.11.24:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.16-13.11.24:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.12.16-13.11.24:851][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.16-13.11.24:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.16-13.11.24:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2022.12.16-13.11.24:855][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.16-13.11.24:855][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:855][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.16-13.11.24:855][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2022.12.16-13.11.24:860][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.16-13.11.24:860][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.16-13.11.24:860][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.16-13.11.24:860][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.12.16-13.11.24:973][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.16-13.11.25:077][  0]LogSlate: Took 0.005326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.16-13.11.25:083][  0]LogSlate: Took 0.003808 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.16-13.11.25:091][  0]LogSlate: Took 0.004932 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.16-13.11.25:222][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2022.12.16-13.11.25:685][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.16-13.11.25:685][  0]LogLoad: (Engine Initialization) Total time: 13.98 seconds
+[2022.12.16-13.11.25:685][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.16-13.11.25:685][  0]LogInit: First time updating LLM stats...
+[2022.12.16-13.11.25:714][  0]LogAssetRegistry: Asset discovery search completed in 5.3380 seconds
+[2022.12.16-13.11.25:715][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.12.16-13.11.25:737][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.16-13.11.25:810][  5]LogSlate: Took 0.004850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.16-13.11.26:707][111]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.16-13.11.49:026][307]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (6_Williams_CharacterIdle_Sprite_2)
+[2022.12.16-13.11.50:491][453]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.16-13.15.39:927][702]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.16-13.15.39:932][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.16-13.15.39:933][702]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 16, 2022, 3:15:39 AM)
+[2022.12.16-13.15.39:934][702]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.12.16-13.15.39:935][702]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.16-13.15.39:935][702]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.12.16-13.15.39:943][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007576s)
+[2022.12.16-13.15.39:944][702]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.12.16-13.15.39:944][702]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2022.12.16-13.15.39:944][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.008835s)
+[2022.12.16-13.15.39:949][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.12.16-13.15.39:950][702]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.16-13.15.39:950][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.16-13.15.39:950][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.16-13.15.39:950][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.16-13.15.39:950][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.16-13.15.39:950][702]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.16-13.15.39:950][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.16-13.15.39:950][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.16-13.15.39:950][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.16-13.15.39:950][702]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.16-13.15.39:950][702]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.16-13.15.39:954][702]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.16-13.15.39:954][702]LogAudioMixer: Display: 1: FrontRight
+[2022.12.16-13.15.40:057][702]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.12.16-13.15.40:057][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.16-13.15.40:057][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.16-13.15.40:057][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.16-13.15.40:058][702]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.16-13.15.40:058][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.16-13.15.40:058][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.16-13.15.40:058][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.16-13.15.40:058][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.16-13.15.40:058][702]LogInit: FAudioDevice initialized.
+[2022.12.16-13.15.40:058][702]LogAudio: Display: Audio Device (ID: 2) registered with world '2DSideScrollerExampleMap'.
+[2022.12.16-13.15.40:073][702]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.12.16-13.15.40:075][702]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.12.16-08.15.40
+[2022.12.16-13.15.40:075][702]LogWorld: Bringing up level for play took: 0.000865
+[2022.12.16-13.15.40:075][702]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.12.16-13.15.40:079][702]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.12.16-13.15.40:079][702]PIE: Server logged in
+[2022.12.16-13.15.40:080][702]PIE: Play in editor total start time 0.149 seconds.
+[2022.12.16-13.15.55:528][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.16-13.15.55:528][527]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.12.16-13.15.55:528][527]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-13.15.55:529][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-13.15.55:538][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.16-13.15.55:544][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-13.15.55:547][527]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.16-13.15.55:548][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.16-13.15.55:549][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.16-13.15.55:564][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.16-13.15.55:565][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.12.16-13.15.55:603][529]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.12.16-13.16.07:590][573]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (6_Williams_CharacterIdle_Sprite_2)
+[2022.12.16-13.16.10:847][898]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.16-13.16.11:472][954]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.16-13.16.12:358][ 34]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.16-13.16.13:254][115]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.16-13.16.13:868][170]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.16-13.16.14:703][245]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.16-13.16.15:554][322]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (6_Williams_CharacterIdle_Sprite_2)
+[2022.12.16-13.16.18:946][655]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2022.12.16-13.17.10:385][381]LogMaterial: Display: Missing cached shader map for material 6_Courtney_Williams_Tiles__2__Mat, compiling. 
+[2022.12.16-13.17.10:412][381]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2022.12.16-13.17.10:412][381]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.12.16-13.17.12:668][539]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2022.12.16-13.17.14:747][674]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/Background_Sprite.Background_Sprite
+[2022.12.16-13.17.14:865][674]LogSlate: Took 0.003944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.16-13.17.34:686][796]LogEditorViewport: Clicking Background
+[2022.12.16-13.17.39:418][270]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_34)
+[2022.12.16-13.17.42:120][544]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_25)
+[2022.12.16-13.17.44:981][835]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2022.12.16-13.17.47:247][ 66]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_12)
+[2022.12.16-13.17.49:415][281]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2022.12.16-13.17.51:923][532]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_17)
+[2022.12.16-13.17.55:221][863]LogEditorViewport: Clicking Background
+[2022.12.16-13.18.01:009][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.16-13.18.02:305][300]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.16-13.18.02:326][300]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/2DSideScrollerBP/Blueprints/6_Courtney_Williams_Tiles__2__Mat.6_Courtney_Williams_Tiles__2__Mat
+[2022.12.16-13.18.02:583][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.16-13.18.04:499][478]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScrollerBP/Blueprints/6_Courtney_Williams_Tiles__2_.6_Courtney_Williams_Tiles__2_
+[2022.12.16-13.18.04:504][478]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.12.16-13.20.46:576][358]LogSlate: Window '6_Courtney_Williams_Tiles__2_' being destroyed
+[2022.12.16-13.20.46:591][358]LogSlate: Window '6_Courtney_Williams_Tiles__2_' being destroyed
+[2022.12.16-13.20.46:628][358]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-13.20.46:628][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-13.20.58:090][270]LogContentBrowser: Deferred new asset file creation: 6_Courtney_Williams_Tiles__2__TileMap
+[2022.12.16-13.20.58:110][270]LogContentBrowser: Creating deferred item: 6_Courtney_Williams_Tiles__2__TileMap
+[2022.12.16-13.21.02:196][677]LogContentBrowser: Attempting asset rename: 6_Courtney_Williams_Tiles__2__TileMap -> 6_Courtney_Williams_Tiles__2__TileMap
+[2022.12.16-13.21.02:197][677]LogContentBrowser: End creating deferred item 6_Courtney_Williams_Tiles__2__TileMap
+[2022.12.16-13.21.02:380][693]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/2DSideScrollerBP/Blueprints/6_Courtney_Williams_Tiles__2__TileMap.6_Courtney_Williams_Tiles__2__TileMap
+[2022.12.16-13.21.05:408][910]LogSlate: Window '6_Courtney_Williams_Tiles__2__TileMap*' being destroyed
+[2022.12.16-13.21.05:427][910]LogSlate: Window '6_Courtney_Williams_Tiles__2__TileMap*' being destroyed
+[2022.12.16-13.21.05:468][910]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-13.21.05:468][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-13.21.06:364][987]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/2DSideScrollerBP/Blueprints/6_Courtney_Williams_Tiles__2__TileSet.6_Courtney_Williams_Tiles__2__TileSet
+[2022.12.16-13.23.11:977][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.12.16-13.23.11:989][ 81]LogSavePackage: Moving '../../../../../Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/2DSideScrollerExampleMap_Auto1A3FBDC62461EDBE25CC82F9629D63571.tmp' to '../../../../../Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2022.12.16-13.23.11:991][ 81]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.021
+[2022.12.16-13.23.11:991][ 81]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2022.12.16-13.23.11:991][ 81]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Background_Sprite] ([1] browsable assets)...
+[2022.12.16-13.23.11:997][ 81]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/Background_Sprite.Background_Sprite]
+[2022.12.16-13.23.11:997][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Background_Sprite]
+[2022.12.16-13.23.12:000][ 81]LogSavePackage: Moving '../../../../../Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Background_Sprite_Auto196C5D6B04E49DFBCBC311383C4EEE9FF.tmp' to '../../../../../Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Autosaves/Game/2DSideScroller/Sprites/Background_Sprite_Auto1.uasset'
+[2022.12.16-13.23.12:001][ 81]LogFileHelpers: Auto-saving content packages took 0.010
+[2022.12.16-13.23.14:996][184]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/2DSideScrollerBP/Blueprints/6_Courtney_Williams_Tiles__2__TileMap.6_Courtney_Williams_Tiles__2__TileMap
+[2022.12.16-13.23.54:024][792]LogSlate: Window '6_Courtney_Williams_Tiles__2__TileMap*' being destroyed
+[2022.12.16-13.23.54:036][792]LogSlate: Window '6_Courtney_Williams_Tiles__2__TileMap*' being destroyed
+[2022.12.16-13.23.54:044][792]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-13.23.54:044][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-13.23.54:058][792]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-13.23.54:058][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-13.23.55:580][927]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/2DSideScrollerBP/Blueprints/6_Courtney_Williams_Tiles__2__TileSet.6_Courtney_Williams_Tiles__2__TileSet
+[2022.12.16-13.25.54:303][642]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:304][642]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:323][643]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:332][644]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:341][645]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:354][646]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:369][647]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:382][648]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:383][648]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:411][649]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:420][650]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:428][651]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:442][652]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:455][653]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:468][654]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:483][655]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:499][656]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:511][657]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:525][658]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:537][659]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:553][660]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:570][661]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:584][662]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:598][663]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:610][664]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:624][665]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:637][666]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:650][667]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:662][668]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:678][669]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:692][670]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:706][671]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:718][672]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:732][673]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:748][674]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:761][675]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:774][676]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:788][677]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:801][678]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:814][679]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:827][680]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:841][681]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:854][682]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:869][683]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:882][684]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:892][685]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:907][686]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:923][687]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:932][688]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:953][689]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:968][690]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:981][691]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.54:994][692]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:008][693]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:021][694]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:035][695]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:048][696]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:061][697]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:074][698]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:087][699]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:101][700]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:113][701]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:126][702]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:138][703]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:152][704]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:167][705]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:181][706]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:194][707]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:207][708]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:220][709]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:235][710]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:251][711]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:264][712]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:277][713]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:290][714]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:303][715]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:318][716]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:332][717]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:345][718]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:360][719]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:373][720]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:386][721]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:399][722]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:413][723]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:421][724]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:436][725]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:449][726]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:461][727]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:474][728]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:487][729]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:501][730]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:513][731]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:526][732]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:539][733]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:552][734]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:568][735]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:593][736]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:611][737]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:622][738]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:637][739]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:653][740]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:668][741]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:682][742]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:698][743]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:713][744]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:726][745]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:739][746]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:752][747]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:764][748]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:777][749]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:791][750]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:803][751]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:816][752]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:829][753]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:842][754]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:854][755]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:868][756]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:881][757]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:894][758]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:908][759]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:921][760]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:935][761]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:948][762]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:961][763]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:974][764]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.55:987][765]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:001][766]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:013][767]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:026][768]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:040][769]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:053][770]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:066][771]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:079][772]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:092][773]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:104][774]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:117][775]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:129][776]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:144][777]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:159][778]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:172][779]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:187][780]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:202][781]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:217][782]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:232][783]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:245][784]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:258][785]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:271][786]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:284][787]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:297][788]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:310][789]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:323][790]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:335][791]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:347][792]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:360][793]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:374][794]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:389][795]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:403][796]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:417][797]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:432][798]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:445][799]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:458][800]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:471][801]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:485][802]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:498][803]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:512][804]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:524][805]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:536][806]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:549][807]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:562][808]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:575][809]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:587][810]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:600][811]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:613][812]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:626][813]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:640][814]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:640][814]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:666][815]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:675][816]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:683][817]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:696][818]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:709][819]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:722][820]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:735][821]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:748][822]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:760][823]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:773][824]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:785][825]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:798][826]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:811][827]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:824][828]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:837][829]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:851][830]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:863][831]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:876][832]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:890][833]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:903][834]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:917][835]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:932][836]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:945][837]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:958][838]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:970][839]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.56:985][840]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:001][841]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:016][842]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:031][843]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:046][844]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:061][845]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:074][846]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:086][847]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:098][848]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:111][849]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:124][850]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:137][851]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:150][852]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:163][853]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:175][854]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:189][855]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:202][856]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:214][857]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:227][858]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:240][859]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:255][860]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:270][861]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:283][862]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:296][863]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:309][864]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:321][865]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:338][866]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:354][867]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:367][868]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:380][869]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:392][870]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:405][871]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:419][872]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:431][873]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:444][874]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:458][875]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:471][876]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:484][877]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:498][878]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:511][879]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:524][880]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:538][881]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:553][882]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:564][883]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:577][884]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:590][885]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:604][886]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:617][887]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:631][888]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:645][889]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:659][890]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:671][891]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:685][892]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:698][893]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:711][894]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:725][895]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:738][896]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:752][897]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:765][898]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:777][899]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:791][900]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:804][901]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:818][902]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:832][903]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:845][904]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:859][905]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:872][906]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:886][907]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:899][908]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:912][909]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:926][910]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:939][911]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:953][912]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:966][913]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:979][914]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.57:992][915]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:006][916]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:019][917]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:033][918]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:046][919]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:059][920]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:073][921]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:087][922]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:100][923]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:113][924]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:127][925]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:140][926]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:153][927]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:167][928]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:180][929]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:194][930]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:207][931]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:221][932]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:235][933]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:248][934]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:261][935]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:274][936]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:287][937]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:301][938]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:315][939]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:328][940]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:342][941]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:355][942]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:369][943]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:382][944]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:395][945]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:409][946]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:422][947]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:436][948]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:449][949]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:462][950]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:476][951]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:489][952]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:503][953]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:516][954]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:528][955]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:541][956]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:554][957]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:568][958]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:581][959]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:594][960]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:607][961]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:621][962]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:635][963]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:648][964]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:661][965]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:675][966]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:688][967]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:702][968]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:715][969]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:729][970]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:742][971]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:756][972]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:771][973]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:783][974]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:797][975]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:810][976]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:824][977]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:837][978]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:839][978]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:866][979]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:874][980]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:884][981]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:897][982]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:910][983]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:911][983]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:941][984]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:949][985]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:959][986]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:973][987]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.58:987][988]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:001][989]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:014][990]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:028][991]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:040][992]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:054][993]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:068][994]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:082][995]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:095][996]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:109][997]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:122][998]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:136][999]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:149][  0]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:163][  1]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:177][  2]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:190][  3]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:204][  4]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:218][  5]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:232][  6]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:245][  7]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:258][  8]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:272][  9]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:287][ 10]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:300][ 11]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:314][ 12]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:328][ 13]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:341][ 14]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:354][ 15]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:369][ 16]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:382][ 17]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:396][ 18]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:409][ 19]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:422][ 20]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:437][ 21]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:450][ 22]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:463][ 23]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:476][ 24]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:489][ 25]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:503][ 26]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:517][ 27]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:530][ 28]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:543][ 29]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:557][ 30]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:570][ 31]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:584][ 32]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:598][ 33]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:611][ 34]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:626][ 35]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:640][ 36]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:654][ 37]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:667][ 38]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:681][ 39]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:695][ 40]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:709][ 41]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:722][ 42]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:736][ 43]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:750][ 44]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:764][ 45]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:778][ 46]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:791][ 47]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:804][ 48]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:818][ 49]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:831][ 50]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:845][ 51]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:859][ 52]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:873][ 53]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:887][ 54]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:902][ 55]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:916][ 56]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:930][ 57]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:943][ 58]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:957][ 59]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:971][ 60]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:985][ 61]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.25.59:998][ 62]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:012][ 63]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:026][ 64]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:040][ 65]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:054][ 66]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:068][ 67]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:081][ 68]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:094][ 69]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:108][ 70]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:122][ 71]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:136][ 72]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:149][ 73]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:163][ 74]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:176][ 75]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:190][ 76]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:204][ 77]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:219][ 78]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:232][ 79]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:246][ 80]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:260][ 81]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:273][ 82]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:287][ 83]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:301][ 84]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:314][ 85]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:327][ 86]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:343][ 87]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:362][ 88]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:375][ 89]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:389][ 90]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:404][ 91]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:420][ 92]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:436][ 93]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:451][ 94]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:465][ 95]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:479][ 96]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:492][ 97]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:505][ 98]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:519][ 99]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:531][100]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:545][101]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:558][102]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:571][103]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:585][104]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:598][105]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:611][106]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:624][107]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:638][108]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:652][109]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:665][110]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:678][111]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:691][112]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:704][113]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:718][114]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:732][115]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:745][116]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:758][117]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:771][118]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:785][119]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:799][120]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:812][121]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:826][122]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:840][123]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:854][124]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:868][125]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:881][126]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:895][127]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:909][128]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:922][129]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:935][130]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:949][131]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:962][132]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:976][133]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.00:989][134]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:003][135]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:017][136]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:030][137]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:044][138]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:058][139]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:071][140]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:086][141]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:100][142]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:114][143]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:127][144]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:140][145]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:154][146]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:168][147]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:182][148]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:195][149]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:209][150]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:223][151]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:237][152]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:251][153]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:265][154]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:279][155]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:292][156]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:305][157]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:320][158]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:333][159]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:346][160]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:360][161]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:374][162]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:388][163]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:402][164]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:415][165]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:429][166]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:443][167]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:455][168]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:469][169]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:484][170]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:498][171]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:511][172]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:525][173]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:538][174]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:552][175]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:565][176]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:579][177]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:592][178]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:606][179]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:620][180]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:633][181]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:647][182]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:661][183]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:674][184]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:688][185]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:702][186]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:716][187]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:730][188]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:744][189]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:757][190]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:771][191]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:785][192]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:798][193]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:812][194]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:826][195]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:839][196]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:853][197]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:866][198]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:879][199]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:893][200]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:907][201]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:921][202]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:934][203]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:948][204]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:961][205]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:974][206]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.01:988][207]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:002][208]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:015][209]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:029][210]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:042][211]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:055][212]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:069][213]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:083][214]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:096][215]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:110][216]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:123][217]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:136][218]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:150][219]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:163][220]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:176][221]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:188][222]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:201][223]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:215][224]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:228][225]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:242][226]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:255][227]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:269][228]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:282][229]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:295][230]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:309][231]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:322][232]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:337][233]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:350][234]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:364][235]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:377][236]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:391][237]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:405][238]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:419][239]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:432][240]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:445][241]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:460][242]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:473][243]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:486][244]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:500][245]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:512][246]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:525][247]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:539][248]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:552][249]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:565][250]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:578][251]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:592][252]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:605][253]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:619][254]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:632][255]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:646][256]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:659][257]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:672][258]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.02:686][259]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.46:862][539]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.46:873][540]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.46:882][541]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.46:893][542]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.46:907][543]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.46:920][544]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.46:934][545]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.46:948][546]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.46:961][547]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.46:975][548]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.46:988][549]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:002][550]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:015][551]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:028][552]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:042][553]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:055][554]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:069][555]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:082][556]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:096][557]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:110][558]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:123][559]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:137][560]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:150][561]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:163][562]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:176][563]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:190][564]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:204][565]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:217][566]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:230][567]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:244][568]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:257][569]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:271][570]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:285][571]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:298][572]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:311][573]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:324][574]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:337][575]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:351][576]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:365][577]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:378][578]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:392][579]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:405][580]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:419][581]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:432][582]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:445][583]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:459][584]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:472][585]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:486][586]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:499][587]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:513][588]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:526][589]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:539][590]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:552][591]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:566][592]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:579][593]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:592][594]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:605][595]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:619][596]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:632][597]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:646][598]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:659][599]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:673][600]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:686][601]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:700][602]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:713][603]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:727][604]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:741][605]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:754][606]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:767][607]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:780][608]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:793][609]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:806][610]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:819][611]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:832][612]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:845][613]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:858][614]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:871][615]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:885][616]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:898][617]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:911][618]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:925][619]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:938][620]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:952][621]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:965][622]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:978][623]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.47:992][624]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.48:005][625]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.48:019][626]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.48:032][627]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.48:045][628]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.48:058][629]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.26.48:071][630]LogGeomTools: Triangulation of poly failed.
+[2022.12.16-13.29.27:454][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.12.16-13.29.27:465][499]LogSavePackage: Moving '../../../../../Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/2DSideScrollerExampleMapB52BB42B4361A55BFA7F058F607816D6.tmp' to '../../../../../Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.16-13.29.27:482][499]LogSavePackage: Moving '../../../../../Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/2DSideScrollerExampleMap_BuiltDa9C13E2174F99D0613870D8A71C3F270A.tmp' to '../../../../../Users/5925002679/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.12.16-13.29.27:495][499]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.16-13.29.27:495][499]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.12.16-13.29.27:495][499]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
