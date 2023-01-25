@@ -1053,3 +1053,209 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.25-17.50.42:928][846]LogContentValidation: Display: Validating WidgetBlueprint /Game/2DSideScrollerBP/Temptation_Island.Temptation_Island
 [2023.01.25-17.50.42:929][846]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2023.01.25-17.50.42:929][846]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.01.25-17.55.07:222][355]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\157238\Downloads\dash macanic.png)
+[2023.01.25-17.55.07:225][355]LogTexture: Display: Building textures: dash_macanic (AutoDXT, 96X96)
+[2023.01.25-17.55.21:072][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.25-17.55.22:284][719]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.25-17.55.22:387][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.25-17.55.44:831][997]LogSlate: Window 'Extract sprites' being destroyed
+[2023.01.25-17.55.52:797][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.01.25-17.55.54:872][872]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.25-17.55.54:964][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.01.25-17.56.04:513][914]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2023.01.25-17.56.04:513][914]LogContentBrowser: Deferred new asset file creation: dash_macanic1
+[2023.01.25-17.56.04:531][914]LogContentBrowser: Creating deferred item: dash_macanic1
+[2023.01.25-17.56.09:221][464]LogContentBrowser: Attempting asset rename: dash_macanic1 -> Dash
+[2023.01.25-17.56.09:345][464]LogContentBrowser: End creating deferred item dash_macanic1
+[2023.01.25-17.56.12:623][839]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScrollerBP/Dash.Dash
+[2023.01.25-17.56.12:805][839]LogRenderer: Reallocating scene render targets to support 1528x788 Format 10 NumSamples 1 (Frame:1).
+[2023.01.25-17.56.20:438][385]LogSlate: Window 'Dash' being destroyed
+[2023.01.25-17.56.20:448][385]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.01.25-17.56.20:448][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.25-17.56.25:009][884]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2023.01.25-17.56.27:886][175]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2023.01.25-17.59.27:365][492]LogRenderer: Reallocating scene render targets to support 1528x900 Format 10 NumSamples 1 (Frame:1).
+[2023.01.25-17.59.31:414][767]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2023.01.25-17.59.31:431][767]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.01.25-17.59.31:431][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.25-17.59.57:028][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.01.25-17.59.57:033][267]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.027
+[2023.01.25-17.59.57:033][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/dash_macanic] ([1] browsable assets)...
+[2023.01.25-17.59.57:035][267]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/dash_macanic.dash_macanic]
+[2023.01.25-17.59.57:035][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/dash_macanic]
+[2023.01.25-17.59.57:037][267]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Auto4E23459B145BB6C0359711CBD227454CD.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Autosaves/Game/2DSideScrollerBP/dash_macanic_Auto4.uasset'
+[2023.01.25-17.59.57:038][267]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.01.25-18.00.09:382][417]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.25-18.00.09:456][417]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.25-18.00.35:157][282]LogContentBrowser: Attempting asset rename: NewFolder -> DashCharecter
+[2023.01.25-18.00.35:158][282]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.25-18.00.51:282][521]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic991F40A3438D755019982DA7C70047BD.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic.uasset'
+[2023.01.25-18.00.51:502][521]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_77B3B87924DDE8111BAE6A0A45B2D5C71.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_7.uasset'
+[2023.01.25-18.00.51:715][521]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_05BB10EC4407E5196BE42D3B553E42E48.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_0.uasset'
+[2023.01.25-18.00.51:934][521]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_15DA962534726512FC629FE81025DA28C.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_1.uasset'
+[2023.01.25-18.00.52:137][521]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_6054310534B53B4EED7B136AA864E8913.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_6.uasset'
+[2023.01.25-18.00.52:335][521]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_5E655391C42D00A4D1027D98898850D66.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_5.uasset'
+[2023.01.25-18.00.52:524][521]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_4AA94F7604BA33EDB7BE7AEB9B391C8D1.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_4.uasset'
+[2023.01.25-18.00.52:737][521]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_2B7F0F3F14770D7A3D1C857B5E788C8D3.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_2.uasset'
+[2023.01.25-18.00.52:948][521]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_3158EEBE84445242405A681BA625AFD09.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_3.uasset'
+[2023.01.25-18.00.54:287][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.01.25-18.00.54:307][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.25-18.00.54:320][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.25-18.00.54:333][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.25-18.00.54:346][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.25-18.00.54:359][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.25-18.00.54:373][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.25-18.00.54:386][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.25-18.00.54:400][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.25-18.00.54:544][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.01.25-18.00.54:559][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.25-18.00.54:603][521]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.25-18.00.54:603][521]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_7.dash_macanic_Sprite_7
+[2023.01.25-18.00.54:603][521]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_6.dash_macanic_Sprite_6
+[2023.01.25-18.00.54:603][521]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_5.dash_macanic_Sprite_5
+[2023.01.25-18.00.54:603][521]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_4.dash_macanic_Sprite_4
+[2023.01.25-18.00.54:603][521]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_3.dash_macanic_Sprite_3
+[2023.01.25-18.00.54:603][521]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_2.dash_macanic_Sprite_2
+[2023.01.25-18.00.54:603][521]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_1.dash_macanic_Sprite_1
+[2023.01.25-18.00.54:603][521]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_0.dash_macanic_Sprite_0
+[2023.01.25-18.00.54:603][521]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/DashCharecter/dash_macanic.dash_macanic
+[2023.01.25-18.00.59:562][994]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/Dash8BC3AC754C42ADC349C3BE884BB182D4.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/Dash.uasset'
+[2023.01.25-18.01.00:009][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.01.25-18.01.00:035][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.01.25-18.01.00:049][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.25-18.01.00:079][994]AssetCheck: New page: Asset Save: Dash
+[2023.01.25-18.01.00:079][994]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/DashCharecter/Dash.Dash
+[2023.01.25-18.02.05:621][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.01.25-18.02.05:636][653]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/2DSideScrollerExampleMapC7D493104712EC5103F78AA7B2213B3B.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.01.25-18.02.05:768][653]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/2DSideScrollerExampleMap_BuiltDa00363A834293651E311848AA2675C745.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2023.01.25-18.02.05:779][653]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.25-18.02.05:779][653]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2023.01.25-18.02.05:779][653]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.01.25-18.02.58:333][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.25-18.02.58:339][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.25-18.02.58:339][ 48]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 25, 2023, 8:02:58 AM)
+[2023.01.25-18.02.58:339][ 48]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.25-18.02.58:342][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003118s)
+[2023.01.25-18.02.58:343][ 48]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.01.25-18.02.58:344][ 48]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2023.01.25-18.02.58:344][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004259s)
+[2023.01.25-18.02.58:359][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.01.25-18.02.58:366][ 48]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.01.25-18.02.58:366][ 48]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.25-18.02.58:366][ 48]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.25-18.02.58:366][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.25-18.02.58:366][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.25-18.02.58:366][ 48]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.25-18.02.58:366][ 48]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.25-18.02.58:366][ 48]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.25-18.02.58:366][ 48]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.25-18.02.58:366][ 48]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.25-18.02.58:366][ 48]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.25-18.02.58:371][ 48]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.25-18.02.58:371][ 48]LogAudioMixer: Display: 1: FrontRight
+[2023.01.25-18.02.58:453][ 48]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2023.01.25-18.02.58:454][ 48]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.25-18.02.58:454][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.25-18.02.58:454][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.25-18.02.58:454][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.25-18.02.58:454][ 48]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.25-18.02.58:454][ 48]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.25-18.02.58:465][ 48]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.25-18.02.58:465][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.25-18.02.58:465][ 48]LogInit: FAudioDevice initialized.
+[2023.01.25-18.02.58:465][ 48]LogAudio: Display: Audio Device (ID: 5) registered with world '2DSideScrollerExampleMap'.
+[2023.01.25-18.02.58:477][ 48]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.25-18.02.58:479][ 48]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.01.25-13.02.58
+[2023.01.25-18.02.58:479][ 48]LogWorld: Bringing up level for play took: 0.001355
+[2023.01.25-18.02.58:479][ 48]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.01.25-18.02.58:481][ 48]PIE: Server logged in
+[2023.01.25-18.02.58:482][ 48]PIE: Play in editor total start time 0.144 seconds.
+[2023.01.25-18.03.28:635][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.25-18.03.28:635][657]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.25-18.03.28:635][657]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.25-18.03.28:635][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.25-18.03.28:646][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.25-18.03.28:689][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.25-18.03.28:702][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.25-18.03.28:703][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.25-18.03.28:703][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.25-18.03.28:721][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.25-18.03.28:742][658]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.01.25-18.04.45:067][911]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2023.01.25-18.04.53:590][794]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2023.01.25-18.05.28:293][261]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2023.01.25-18.05.28:314][261]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.01.25-18.05.28:314][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.25-18.09.29:653][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.01.25-18.09.29:673][803]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/2DSideScrollerExampleMapE7227E65444D658463A8098FACE735F2.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.01.25-18.09.29:795][803]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/2DSideScrollerExampleMap_BuiltDaE8F630544AC01F6BDC6E77B2E0E1CACB.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2023.01.25-18.09.29:806][803]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.25-18.09.29:806][803]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2023.01.25-18.09.29:806][803]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Content: 'C:/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:111][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:112][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:112][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:112][ 48]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6'
+[2023.01.25-18.09.33:277][ 48]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/Sequencer/DefaultTakeBurnIn.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/Sequencer/DefaultTakeBurnIn', but the path contains illegal characters '.'
+[2023.01.25-18.09.33:277][ 48]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultCountdownMaterial.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultCountdownMaterial', but the path contains illegal characters '.'
+[2023.01.25-18.09.33:277][ 48]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles', but the path contains illegal characters '.'
+[2023.01.25-18.09.33:277][ 48]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay', but the path contains illegal characters '.'
+[2023.01.25-18.09.33:522][ 48]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/DashEF13E3E445DD839D6E945F9B59685541.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/Dash.uasset'
+[2023.01.25-18.09.33:525][ 48]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanicAF7993CC4679BBA04A40DCA58A6F0154.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic.uasset'
+[2023.01.25-18.09.33:528][ 48]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_032FA7C3944379E80941BE5A0D0140765.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_0.uasset'
+[2023.01.25-18.09.33:531][ 48]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_19AEC12CE45C6ACA9B752C6B642C8BC67.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_1.uasset'
+[2023.01.25-18.09.33:534][ 48]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_21B6363A94CF108FE723008A20151E244.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_2.uasset'
+[2023.01.25-18.09.33:537][ 48]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_38BC5F4394007ADFB5FD885BAA42C3E60.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_3.uasset'
+[2023.01.25-18.09.33:540][ 48]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_4AE56B3B34A28F6CAE8BC0D9C2237E796.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_4.uasset'
+[2023.01.25-18.09.33:543][ 48]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_523EE05AC484635A3CA0752858653FDF9.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_5.uasset'
+[2023.01.25-18.09.33:546][ 48]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_6352275FC4B3634A15C13CA9D834D86C9.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_6.uasset'
+[2023.01.25-18.09.33:549][ 48]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/dash_macanic_Sprite_72CF50D814825E05610A4A39E5D77603C.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_7.uasset'
+[2023.01.25-18.09.33:565][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.01.25-18.09.33:579][ 48]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/2DSideScrollerExampleMapD62391544AB02C30D5318BB237DE940E.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.01.25-18.09.33:589][ 48]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.039
+[2023.01.25-18.09.33:590][ 48]LogSavePackage: Moving '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Saved/2DSideScrollerExampleMap_BuiltDa8593987B4D88881FF8B3F48821AFC404.tmp' to '../../../../../Users/157238/OneDrive - School Board of Seminole County/Desktop/GameDesign6/GameDesign6/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2023.01.25-18.09.39:834][ 48]LogSlate: Window 'Submit Files' being destroyed
+[2023.01.25-18.09.40:447][ 48]LogSourceControl: commit successful: [6osantana 42053dd] dash animation
+[2023.01.25-18.09.40:612][ 48]SourceControl: [6osantana 42053dd] dash animation
+[2023.01.25-18.09.40:612][ 48]SourceControl:  12 files changed, 0 insertions(+), 0 deletions(-)
+[2023.01.25-18.09.40:612][ 48]SourceControl:  create mode 100644 GameDesign6/Content/2DSideScrollerBP/DashCharecter/Dash.uasset
+[2023.01.25-18.09.40:612][ 48]SourceControl:  create mode 100644 GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic.uasset
+[2023.01.25-18.09.40:612][ 48]SourceControl:  create mode 100644 GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_0.uasset
+[2023.01.25-18.09.40:612][ 48]SourceControl:  create mode 100644 GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_1.uasset
+[2023.01.25-18.09.40:612][ 48]SourceControl:  create mode 100644 GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_2.uasset
+[2023.01.25-18.09.40:612][ 48]SourceControl:  create mode 100644 GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_3.uasset
+[2023.01.25-18.09.40:612][ 48]SourceControl:  create mode 100644 GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_4.uasset
+[2023.01.25-18.09.40:612][ 48]SourceControl:  create mode 100644 GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_5.uasset
+[2023.01.25-18.09.40:612][ 48]SourceControl:  create mode 100644 GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_6.uasset
+[2023.01.25-18.09.40:612][ 48]SourceControl:  create mode 100644 GameDesign6/Content/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_7.uasset
+[2023.01.25-18.09.40:618][ 48]SourceControl: Commited [6osantana 42053dd] dash animation.
+[2023.01.25-18.09.40:648][ 49]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.25-18.09.40:648][ 49]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2023.01.25-18.09.40:648][ 49]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.01.25-18.09.40:648][ 49]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_7.dash_macanic_Sprite_7
+[2023.01.25-18.09.40:648][ 49]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_6.dash_macanic_Sprite_6
+[2023.01.25-18.09.40:648][ 49]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_5.dash_macanic_Sprite_5
+[2023.01.25-18.09.40:648][ 49]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_4.dash_macanic_Sprite_4
+[2023.01.25-18.09.40:648][ 49]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_3.dash_macanic_Sprite_3
+[2023.01.25-18.09.40:649][ 49]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_2.dash_macanic_Sprite_2
+[2023.01.25-18.09.40:649][ 49]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_1.dash_macanic_Sprite_1
+[2023.01.25-18.09.40:649][ 49]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/DashCharecter/dash_macanic_Sprite_0.dash_macanic_Sprite_0
+[2023.01.25-18.09.40:649][ 49]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/DashCharecter/dash_macanic.dash_macanic
+[2023.01.25-18.09.40:649][ 49]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/DashCharecter/Dash.Dash
